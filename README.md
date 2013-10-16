@@ -1,4 +1,5 @@
 # HyperTroll Markup Language
+delving into the depths of argparse and string formatting
 
 ## Usage
 
