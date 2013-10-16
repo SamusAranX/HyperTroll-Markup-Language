@@ -1,6 +1,8 @@
 # HyperTroll Markup Language
 delving into the depths of argparse and string formatting
 
+##[Live demo](http://stuff.peterwunder.de/clusterfuck/ "Title") 
+
 ## Usage
 
 Call hypertroll.py like you would call any other Python script.
