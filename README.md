@@ -1,7 +1,7 @@
 # HyperTroll Markup Language
 delving into the depths of argparse and string formatting
 
-##[Live demo](http://stuff.peterwunder.de/clusterfuck/ "Title") 
+##[Live demo](http://stuff.peterwunder.de/clusterfuck/ "Clusterfuck")
 
 ## Usage
 
