@@ -1,5 +1,4 @@
 # HyperTroll Markup Language
-* * *
 
 ## Usage
 
